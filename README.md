@@ -1,4 +1,4 @@
-# SynthTS 🕒
+# SynthTS 
 
 **Open-source synthetic time-series generator for ML testing**  
 Generate realistic, privacy-safe synthetic time-series data in one command — for fraud detection, IoT, forecasting, and CI/CD pipelines.
