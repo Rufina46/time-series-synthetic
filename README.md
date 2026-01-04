@@ -20,3 +20,6 @@ Built with **TimeGAN** (from [ydata-synthetic](https://github.com/ydataai/ydata-
 ```bash
 pip install -r requirements.txt
 python synthts.py --input sample.csv --output synthetic.csv
+## Contact
+
+For questions, feedback, or collaboration, please open a [Discussion](https://github.com/Rufina46/time-series-synthetic/discussions).
