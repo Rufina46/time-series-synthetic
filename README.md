@@ -24,4 +24,4 @@ python synthts.py --input sample.csv --output synthetic.csv
 
 ## Contact
 
-For questions, feedback, or collaboration, please open a [Discussion](https://github.com/Rufina46/time-series-synthetic/discussions).
+For questions, feedback, or collaboration, please open a [Discussion](https://github.com/Rufina46/time-series-synthetic/discussions), zinatullinarufina46@gmail.com.
